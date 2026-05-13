@@ -12,7 +12,7 @@ if word_length <= 5:
 elif word_length <= 8:
     hint_count = 3  
 else:
-    hint_count = 3
+    hint_count = 2
 
 
 guessed_letters = random.sample(list(set(word)), hint_count)

@@ -1,0 +1,4 @@
+Stock: CODE ALPHA
+Price: 1000
+Quantity: 400
+Total Investment: 400000 
