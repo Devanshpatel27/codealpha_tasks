@@ -1,3 +1,5 @@
+# Stock Portfolio Tracker - CodeAlpha Internship
+
 stock_price = {
         "CODE ALPHA": 1000,
         "APPLE": 500,
