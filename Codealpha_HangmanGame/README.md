@@ -1,6 +1,6 @@
 # 🎮 Hangman Game
 
-📌 **Domain:** Python Programming Internship  
+📌 **Domain**: Python Programming Internship  
 👨‍💻 **Intern:** Devansh Patel  
 🏢 **Organization:** CodeAlpha
 
